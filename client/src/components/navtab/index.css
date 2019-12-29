@@ -1,0 +1,28 @@
+.nav-link{
+    color: rgb(131, 82, 49)!important;
+    background-color: rgb(155, 218, 196);
+    border: none;
+    margin-right: 20px;
+    font-weight: 300;
+    text-decoration: none;
+    
+}
+.button:hover {
+    background-color: rgb(155, 218, 196);
+
+}
+#myNavbar {
+    background-color: rgb(155, 218, 196);
+}
+#myLink {
+    text-decoration: none;
+    color: rgb(131, 82, 49)!important;
+}
+#globe {
+    color: rgb(131, 82, 49);
+    padding-top: 15px;
+    margin-left: 10px;
+}
+#myBrand {
+    padding-bottom: 15px;
+}
